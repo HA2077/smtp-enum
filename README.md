@@ -59,8 +59,6 @@ We have included a sample `usernames.txt` for testing.
 
 ## 📖 Usage
 
-The tool uses `optparse` for a clean command-line experience.
-
 **View Help Menu:**
 
     python3 smtp_user_enum.py -h
